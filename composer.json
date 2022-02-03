@@ -1,0 +1,16 @@
+{
+    "name": "pete/timechecker",
+    "description": "package with a function to return current time of server timezone",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Pete Lashin",
+            "email": "petelashin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0.0",
+        "symfony/http-client": "^6.0"
+    }
+}
